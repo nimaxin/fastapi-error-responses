@@ -1,6 +1,6 @@
 # Documenting FastAPI errors
 
-The code for [Documenting FastAPI errors](article/article.md), a step by step guide to giving every error a FastAPI app returns one shape, and to making its OpenAPI schema list exactly which errors each route can return.
+The code for [How to document error responses in FastAPI](https://dev.to/nimaxin/how-to-document-error-responses-in-fastapi-48a7), a step by step guide to giving every error a FastAPI app returns one shape, and to making its OpenAPI schema list exactly which errors each route can return.
 
 ![POST /todos in ReDoc at the end of the guide](article/images/after.png)
 
